@@ -25,5 +25,7 @@ public class Main {
         turmaCrud.apagar(101);
         System.out.println("Tentando ler turma apagada: " + turmaCrud.ler(101));
     }
+
+    //Sacanagem
 }
 
